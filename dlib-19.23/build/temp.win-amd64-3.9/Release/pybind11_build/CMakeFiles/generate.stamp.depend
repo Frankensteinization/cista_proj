@@ -1,0 +1,16 @@
+# CMake generation dependency list for this directory.
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/CMakePackageConfigHelpers.cmake
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/CMakeParseArguments.cmake
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/CheckCXXCompilerFlag.cmake
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/CheckCXXSourceCompiles.cmake
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/FindPackageMessage.cmake
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/FindPythonInterp.cmake
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/GNUInstallDirs.cmake
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/Internal/CheckCompilerFlag.cmake
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/Internal/CheckSourceCompiles.cmake
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/Administrator/Desktop/dlib-19.23/dlib/external/pybind11/CMakeLists.txt
+C:/Users/Administrator/Desktop/dlib-19.23/dlib/external/pybind11/tools/FindPythonLibsNew.cmake
+C:/Users/Administrator/Desktop/dlib-19.23/dlib/external/pybind11/tools/pybind11Tools.cmake

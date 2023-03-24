@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Administrator\Desktop\dlib-19.23\build\temp.win-amd64-3.9\Release\dlib_build\avx_test_build\CMakeFiles\cfc6a28aeab5e6992e607e18a2e33833\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F5B33021-21F4-3FDB-9ABE-70C3B978971B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

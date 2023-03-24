@@ -1,0 +1,23 @@
+# CMake generation dependency list for this directory.
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/CMakeCInformation.cmake
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/CMakeCXXInformation.cmake
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/CMakeGenericSystem.cmake
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/CMakeRCInformation.cmake
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/Compiler/MSVC-C.cmake
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/Compiler/MSVC-CXX.cmake
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/Platform/Windows-MSVC-C.cmake
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/Platform/Windows-MSVC.cmake
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/Platform/Windows.cmake
+C:/Users/Administrator/AppData/Local/Programs/Python/Python39/Lib/site-packages/cmake/data/share/cmake-3.22/Modules/Platform/WindowsPaths.cmake
+C:/Users/Administrator/Desktop/dlib-19.23/build/temp.win-amd64-3.9/Release/CMakeFiles/3.22.2/CMakeCCompiler.cmake
+C:/Users/Administrator/Desktop/dlib-19.23/build/temp.win-amd64-3.9/Release/CMakeFiles/3.22.2/CMakeCXXCompiler.cmake
+C:/Users/Administrator/Desktop/dlib-19.23/build/temp.win-amd64-3.9/Release/CMakeFiles/3.22.2/CMakeRCCompiler.cmake
+C:/Users/Administrator/Desktop/dlib-19.23/build/temp.win-amd64-3.9/Release/CMakeFiles/3.22.2/CMakeSystem.cmake
+C:/Users/Administrator/Desktop/dlib-19.23/dlib/cmake_utils/test_for_neon/CMakeLists.txt

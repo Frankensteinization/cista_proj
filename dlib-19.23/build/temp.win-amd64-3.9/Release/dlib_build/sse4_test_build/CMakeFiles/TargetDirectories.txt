@@ -1,0 +1,2 @@
+C:/Users/Administrator/Desktop/dlib-19.23/build/temp.win-amd64-3.9/Release/dlib_build/sse4_test_build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Administrator/Desktop/dlib-19.23/build/temp.win-amd64-3.9/Release/dlib_build/sse4_test_build/CMakeFiles/ZERO_CHECK.dir
